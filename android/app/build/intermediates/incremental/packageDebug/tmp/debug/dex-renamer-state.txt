@@ -1,0 +1,4 @@
+#Sat May 16 10:37:06 BRT 2020
+base.0=/media/arthur/ee574453-4848-4c67-858b-a753b58899c2/Arthur/Programação/Rocketseat/bootcamp/appgobarber/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
