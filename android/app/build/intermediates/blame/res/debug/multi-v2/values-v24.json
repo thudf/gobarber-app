@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/media/arthur/ee574453-4848-4c67-858b-a753b58899c2/Arthur/Programação/Rocketseat/bootcamp/appgobarber/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml",
+            "outputFile": "/Users/arthurdafonseca/Documents/rocketSeat/bootcamp_new/gobarber-app/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml",
             "map": [
                 {
-                    "source": "/home/arthur/.gradle/caches/transforms-2/files-2.1/2b7e6ebaa515cd43f42fb356f0d1941c/appcompat-1.1.0/res/values-v24/values-v24.xml",
+                    "source": "/Users/arthurdafonseca/.gradle/caches/transforms-2/files-2.1/2b7e6ebaa515cd43f42fb356f0d1941c/appcompat-1.1.0/res/values-v24/values-v24.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
